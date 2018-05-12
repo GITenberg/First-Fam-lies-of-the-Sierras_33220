@@ -1,0 +1,31 @@
+_repo: First-Fam-lies-of-the-Sierras_33220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Joaquin
+    aliases:
+    - Miller, Cincinnatus Hiner
+    - Miller, Cincinnatus Heine
+    birthdate: 1837
+    deathdate: 1913
+    gutenberg_agent_id: '8840'
+    url: http://www.gutenberg.org/2009/agents/8840
+    wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33220'
+  lccn: 07025986
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danites (Mormon Church) -- Fiction'
+- !lcc 'PS'
+title: First Fam'lies of the Sierras
+url: http://www.gutenberg.org/ebooks/33220
