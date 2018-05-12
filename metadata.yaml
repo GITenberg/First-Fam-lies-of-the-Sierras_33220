@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8840
     wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33220#First-Fam-lies-of-the-Sierras
 gutenberg_issued: '2010-07-22'
 gutenberg_type: Text
 identifiers:
